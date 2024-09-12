@@ -66,6 +66,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# UMKM-cafe-landingpage
-A responsive landing page designed for marketing UMKM cafes. Features include a menu display, location info, gallery, contact form, and customer testimonials. Ideal for attracting and engaging potential customers and showcasing your cafe’s unique offerings.
->>>>>>> cbf5f6913f45d12d9f62fc2a6a2e92c14c65a8ef
+
